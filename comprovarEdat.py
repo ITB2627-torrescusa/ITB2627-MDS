@@ -11,4 +11,4 @@ else:
 print("Programa Finalitzat")
 
 #prova
-#prova desdde casa
+#prova desde casa
