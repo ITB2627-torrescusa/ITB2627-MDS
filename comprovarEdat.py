@@ -9,5 +9,3 @@ else:
 
 
 print("Programa Finalitzat")
-
-# Prova
