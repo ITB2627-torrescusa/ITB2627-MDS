@@ -7,7 +7,6 @@ if edat>=18 and entrada=="si" and roba=="tot blanc":
 else:
     print("No pots entrar al discoteca")
 
-
 print("Programa Finalitzat")
 
 #prova final
