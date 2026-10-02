@@ -1,8 +1,8 @@
 edat=int(input("Quina edat tens?"))
-entrada=int(input("Tens l'entrada?"))
-roba=(int(input("Quina roba portes? (1=pantalo blanc, 2=camisa blanca, 3=zapates blancs)")))
+entrada=(input("Tens l'entrada? (si/no)"))
+roba=input("Quina roba portes? (tot blanc)")
 
-if edat>=18 and entrada==1 and roba==1:
+if edat>=18 and entrada=="si" and roba=="tot blanc":
     print("Pots entrar al discoteca")
 else:
     print("No pots entrar al discoteca")
