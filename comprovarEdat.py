@@ -12,3 +12,4 @@ print("Programa Finalitzat")
 
 #prova
 #prova desde casa 1
+#asdas
